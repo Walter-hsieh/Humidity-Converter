@@ -1,0 +1,5 @@
+{
+  "name": "Humidity Converter Pro",
+  "description": "An advanced tool to seamlessly convert between relative humidity, dew point, and absolute humidity based on temperature. Get detailed explanations of the atmospheric conditions powered by Gemini.",
+  "requestFramePermissions": []
+}
